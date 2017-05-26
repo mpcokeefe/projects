@@ -104,7 +104,7 @@ ES_USER = 'admin'
 ES_PASS = 'elastic'
 
 # define mcafee mssql connection parameters
-# MC_HOST = 'CASQL-AG-MCAFEE.domain.com'
+# MC_HOST = 'ZINGBAT-AG-MCAFEE.domain.com'
 MC_HOST1 = '10.1.1.62'
 MC_HOST2 = '10.1.1.62'
 MC_USER = 'McAfeeSQL_Read'
